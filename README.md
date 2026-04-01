@@ -11,13 +11,13 @@ any point size.
 
 ## Formats
 
-The build produces three files:
+The build produces three files - click to download:
 
 | File | Format |
 |------|--------|
-| `Redacto-Regular.otf` | CFF-flavored OpenType |
-| `Redacto-Regular.ttf` | TrueType-flavored OpenType |
-| `Redacto-Regular.woff2` | WOFF2 (web) |
+| [`Redacto-Regular.otf`](fonts/Redacto-Regular.otf) | CFF-flavored OpenType |
+| [`Redacto-Regular.ttf`](fonts/Redacto-Regular.ttf) | TrueType-flavored OpenType |
+| [`Redacto-Regular.woff2`](fonts/Redacto-Regular.woff2) | WOFF2 (web) |
 
 ## Building
 
