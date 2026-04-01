@@ -1,0 +1,17 @@
+# Build outputs
+fonts/*.ttf
+fonts/*.otf
+fonts/*.woff2
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

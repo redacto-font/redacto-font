@@ -1,0 +1,28 @@
+FONTLOG for the Redacto font family
+====================================
+
+This file provides detailed information on the Redacto font software.
+This information should be distributed along with the Redacto fonts
+and any derivative works.
+
+Basic Font Information
+----------------------
+Redacto is a pan-Unicode redaction font. Every glyph is rendered as a
+full-height black rectangle with an advance width equal to a standard
+n-width. The font covers all assigned code points in the Unicode Basic
+Multilingual Plane.
+
+The font is intended for redacting text in documents—replacing readable
+characters with uniform solid blocks.
+
+ChangeLog
+---------
+2026-04-01 (v1.000)
+- Initial release
+- Full BMP coverage (~55 000 glyphs)
+- OTF, TTF, and WOFF2 outputs
+
+Acknowledgements
+----------------
+Font generated with fontTools (https://github.com/fonttools/fonttools).
+Licensed under the SIL Open Font License, Version 1.1.
